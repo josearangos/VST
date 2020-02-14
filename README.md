@@ -59,3 +59,7 @@ Please cite our paper if you find this repository useful.
 
 # Contact
 If you have any question about the paper or the code, feel free to email me at [jjery2243542@gmail.com](jjery2243542@gmail.com).
+
+# Commands
+
+python3 test.py -m /home/julian/Documentos/PI_JCL/Experimentos/Experimento\ 5/single_sample_model.pkl-149999 -s /home/julian/Documentos/PI_JCL/voice_integrador/wav48/p101/p101_001.wav -t 1 -o ~/Documentos/PI_JCL/chouTest.wav
